@@ -120,9 +120,3 @@ python -m spacy download en_core_web_sm
 Make sure Python and a working microphone are installed on the system.
 
 ---
-
-## 👨‍💻 Author
-
-**Amna Pervez**
-
----
