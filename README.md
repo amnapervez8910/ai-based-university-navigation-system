@@ -74,8 +74,8 @@ The campus is represented as an undirected weighted graph where:
 - Nodes represent campus locations
 - Edges represent pathways between locations
 - Weights represent distance or travel cost
----
 
+---
 ## 🎯 AI Functionalities
 
 ### 🗣 Speech Recognition
@@ -118,12 +118,6 @@ python -m spacy download en_core_web_sm
 ```
 
 Make sure Python and a working microphone are installed on the system.
-
----
-
-## 📄 Project Report
-
-The complete project report is included in this repository.
 
 ---
 
