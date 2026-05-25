@@ -69,12 +69,11 @@ Features of DFS in this project:
 
 ## 🔗 Graph Representation
 
-The campus is represented as an **undirected weighted graph** where:
+The campus is represented as an undirected weighted graph where:
 
-- **Nodes** represent campus locations
-- **Edges** represent pathways between locations
-- **Weights** represent distance or travel cost
-
+- Nodes represent campus locations
+- Edges represent pathways between locations
+- Weights represent distance or travel cost
 ---
 
 ## 🎯 AI Functionalities
