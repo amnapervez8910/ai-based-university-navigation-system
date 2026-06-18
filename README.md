@@ -8,7 +8,7 @@ The system helps users navigate through campus locations using voice commands an
 ## ✨ Features
 
 - ✅ Voice-based user interaction
-- ✅ Speech-to-text conversion
+- ✅ Speech-2-text conversion
 - ✅ Natural language query processing
 - ✅ AI-based pathfinding system
 - ✅ Text-to-speech navigation guidance
