@@ -14,7 +14,7 @@ The system helps users navigate through campus locations using voice commands an
 - ✅ Text-to-speech navigation guidance
 - ✅ Graph-based campus representation
 - ✅ Multiple route exploration using DFS
-- ✅ Hands-free navigation assistance
+- ✅ Hands-free  navigation assistance
 
 ---
 
