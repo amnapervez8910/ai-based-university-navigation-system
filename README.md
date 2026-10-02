@@ -1,4 +1,4 @@
-         # 🧠 AI-Based University Navigation System
+          # 🧠 AI-Based University Navigation System
 
 An AI-powered university campus navigation system developed in **Python** using **Speech Recognition**, **Natural Language Processing (NLP)**, and **Text-to-Speech (TTS)** technologies.  
 The system helps users navigate through campus locations using voice commands and spoken directions.
